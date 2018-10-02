@@ -6,6 +6,7 @@ html {
 h1, h2 {
   font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
+  font-weight: bold;
   color: #3f1622;
 }
 
@@ -28,7 +29,7 @@ img {
 figcaption {
   font-family: 'PT Serif', serif;
   font-style: italic;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 
@@ -40,7 +41,8 @@ figcaption {
 
 p {
   font-family: 'PT Serif', serif;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
+  font-weight: normal;
 }
 
 blockquote {
